@@ -6,6 +6,9 @@ Arduino TPMS - Tire Pressure Monitoring System
 **WOKWI sketch: https://wokwi.com/projects/437973476984561665**
 
 
+![THUMB_tpms_tire_pressure_xiao_esp32_B](https://github.com/user-attachments/assets/28166ba3-51fa-40ab-bd0b-35b22f72aef8)
+
+
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
 - Tire Pressure Sensors: https://s.click.aliexpress.com/e/_opKdOsF
@@ -45,7 +48,7 @@ Related videos displays and cars:
 - Turbo pressure gauge - https://youtu.be/JXmw1xOlBdk
 
 
-![THUMB_tpms_tire_pressure_xiao_esp32_B](https://github.com/user-attachments/assets/28166ba3-51fa-40ab-bd0b-35b22f72aef8)
+
 
 
 _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
