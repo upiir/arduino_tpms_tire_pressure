@@ -84,5 +84,8 @@ Screenshots from the video:
 ![CAMTASIA_tpms_tire_pressure_sensor (Time 0_54_35;10)](https://github.com/user-attachments/assets/f6b06b79-8238-4cd2-8266-61fa68041f09)
 ![CAMTASIA_tpms_tire_pressure_sensor (Time 0_55_53;11)](https://github.com/user-attachments/assets/572fbbc1-5e49-45bb-bc4c-4d7d50530985)
 
+<img width="1920" height="1080" alt="1920x1080_thumbs_car_projects_2025" src="https://github.com/user-attachments/assets/34befe65-9457-4300-9f6c-fb218e7547a0" />
+
+
 
 
