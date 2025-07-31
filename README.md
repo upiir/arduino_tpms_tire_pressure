@@ -54,7 +54,10 @@ Related videos displays and cars:
 _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 
-Small Animations:
+Small Animation:
+
+![esp32s3_tpms_tire_pressure_longer](https://github.com/user-attachments/assets/48e8aadd-cf15-4481-8aab-b968f51ba138)
+
 
 
 Screenshots from the video:
